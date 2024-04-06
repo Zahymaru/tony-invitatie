@@ -1,0 +1,18 @@
+html { 
+  background: url(./poza.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.box {
+
+ 
+  
+  font-weight: 900;
+  color: #061af2; 
+  padding: 10px 20px; 
+  font-size: 16px; 
+  
+}
